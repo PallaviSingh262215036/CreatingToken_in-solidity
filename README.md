@@ -85,7 +85,7 @@ Token token = new Token("Earth", "ERT", 100);
 Mint new tokens to an address.
 
 ```solidity
-token.mint(0xYourAddress, 1000);
+token.mint(0x5B38Da6a701c568545dCfcB03FcB875f56beddC4, 1000);
 ```
 
 ### Burning Tokens
@@ -93,7 +93,7 @@ token.mint(0xYourAddress, 1000);
 Burn tokens from an address.
 
 ```solidity
-token.burn(0xYourAddress, 500);
+token.burn(0x5B38Da6a701c568545dCfcB03FcB875f56beddC4, 500);
 ```
 
 ## License
